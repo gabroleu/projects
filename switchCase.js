@@ -1,6 +1,6 @@
 //switch case
 
-let diaDaSemana = 1;
+let diaDaSemana = 6;
 
 switch (diaDaSemana) {
     case 1:
@@ -13,5 +13,8 @@ switch (diaDaSemana) {
 
     case 3:
         console.log("Quarta-Feira")
+    
+    default:
+        console.log("Dia inválido!")
 
 }
