@@ -1,6 +1,6 @@
 //switch case
 
-let diaDaSemana = 6;
+let diaDaSemana = 1;
 
 switch (diaDaSemana) {
     case 1:
