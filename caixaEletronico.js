@@ -1,6 +1,6 @@
 // Crie um sistema de opções para um caixa eletrônico: "1 - Sacar", "2 - Depositar", "3 - Saldo". Use switch para processar a escolha.
 
-let opcao = 1;
+let opcao = 4;
 
 switch (opcao) {
     case 1:
